@@ -11,7 +11,7 @@
   ![Affinity diagram](../resources/affinity-map.png)
 
 - Insights
-  - [Link to document :link:](../../Documents/Insights_needs%20chart_document%20(i.e.%20example,%20what,%20why).docx)
+  - [Link to document :link:](../insights/Insights_needs%20chart_document%20(i.e.%20example,%20what,%20why).docx)
 
 - Sitemaps
   - [Nyabijek :link:](../sitemaps/Nyabijek%20Site%20Map.png)
