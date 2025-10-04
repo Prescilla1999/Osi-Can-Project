@@ -8,3 +8,6 @@ Names and links to Github profiles
 
 ## Links
 - [Mental health resources :link:](./docs/resources/mental-health.md)
+
+## Activities
+1. [Activity 1: Observe, frame, & brainstorm :link:(low-fidelity)](./docs/activities/activity1.md)
