@@ -2,8 +2,8 @@
 
 - Empathy mappings
   - [First version](../empathy-map/octavio.md)
-  - [Second version](../../Empathy%20Maps/Nyabijek%20Empathy%20Map.png)
-  ![Second empathy map](../../Empathy%20Maps/Nyabijek%20Empathy%20Map.png)
+  - [Second version](../empathy-map/Nyabijek%20Empathy%20Map.png)
+  ![Second empathy map](../empathy-map/Nyabijek%20Empathy%20Map.png)
 
 
 - Affinity diagram
@@ -14,19 +14,19 @@
   - [Link to document :link:](../../Documents/Insights_needs%20chart_document%20(i.e.%20example,%20what,%20why).docx)
 
 - Sitemaps
-  - [Nyabijek :link:](../../Site%20Maps/Nyabijek%20Site%20Map.png)
-  ![Nyabijek sitemap](../../Site%20Maps/Nyabijek%20Site%20Map.png)
-  - [Octavio :link:](../../Site%20Maps/octavio-zenil.png)
-  ![Octavio sitemap](../../Site%20Maps/octavio-zenil.png)
-  - [About, contact and more sitemap :link:](../../Site%20Maps/Site%20map%20of%20'%20About'%20,%20'Contact'%20&%20'More'%20.png)
-  ![About, contact and more sitemap](../../Site%20Maps/Site%20map%20of%20'%20About'%20,%20'Contact'%20&%20'More'%20.png)
+  - [Nyabijek :link:](../sitemaps/Nyabijek%20Site%20Map.png)
+  ![Nyabijek sitemap](../sitemaps/Nyabijek%20Site%20Map.png)
+  - [Octavio :link:](../sitemaps/octavio-zenil.png)
+  ![Octavio sitemap](../sitemaps/octavio-zenil.png)
+  - [About, contact and more sitemap :link:](../sitemaps/Site%20map%20of%20'%20About'%20,%20'Contact'%20&%20'More'%20.png)
+  ![About, contact and more sitemap](../sitemaps/Site%20map%20of%20'%20About'%20,%20'Contact'%20&%20'More'%20.png)
 
 - Low fidelity prototypes
-  - [Home, Contact, About and More Mobile version :link:](../../Prototypes/Low%20Fidelity%20Prototypes%20(1).pdf)
-  - [Programs Desktop version :link:](../../Prototypes/Low-%20fidelity-%20prototype%20(2).jpg)
-  ![Programs Desktop version prototype](../../Prototypes/Low-%20fidelity-%20prototype%20(2).jpg)
-  - [Resource location](../../Prototypes/low-fid-prototype-resource-location.jpg)
-  ![Resource location prototype](../../Prototypes/low-fid-prototype-resource-location.jpg)
+  - [Home, Contact, About and More Mobile version :link:](../prototypes/Low%20Fidelity%20Prototypes%20(1).pdf)
+  - [Programs Desktop version :link:](../prototypes/Low-%20fidelity-%20prototype%20(2).jpg)
+  ![Programs Desktop version prototype](../prototypes/Low-%20fidelity-%20prototype%20(2).jpg)
+  - [Resource location](../prototypes/low-fid-prototype-resource-location.jpg)
+  ![Resource location prototype](../prototypes/low-fid-prototype-resource-location.jpg)
 
 - User story map
   - [User story map document :link:](../user-story-map/user-story-map-1.pdf) 
