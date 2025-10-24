@@ -10,7 +10,7 @@
 
 ## Formative Usability Questionnaire
 - [**Questionnaire** :link:](./docs/formative-usability-questionnaire.md)
-- [**Insights** :link:](./docs/formative-usability-questionnaire.md)
+- [**Insights** :link:](./docs/Usability%20Insights.pdf)
 
 ## User Story Map
 - [**Link to PDF file :link:**](./docs/User%20Story%20Map.pdf)
