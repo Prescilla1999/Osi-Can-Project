@@ -23,11 +23,17 @@ Names and links to Github profiles
 ### Summary :link:
 Make a website design for one of the organizations to make them more accessible, user friendly, and easier to find.
 ### NorthStar & Carryover Customers :link:
-Osi-Can Sask. & Reach Autism Learning
+**NorthStar**
+- Facilitate resource location in the website
+- Attract individuals without existing employment-related mental health conditions
+- Communicate efectively about events and volunteering
+
+**Customer**: Osi-Can Sask.
 ### Assumptions :link:
 Website will be made using WordPress. Process will be incremental to simulate the industrial process. We would be given time every two weeks to converse with clients, our design would be for Osi-Can.
 ### Constraints :link:
 Limited time to discuss with clients. We have to use WordPress, for better or for worse. We have to work with an existing brand rather than making our own. 
 
 ## Activities :link:
-1. [Activity 1: Observe, frame, & brainstorm :link:(low-fidelity)](./docs/activities/activity1.md)
+1. [Activity 1: Observe, frame, & brainstorm (low-fidelity) :link:](./activities/activity-1/activity-1-overview.md)
+2. [Activity 2: Brainstorming (high-fidelity) & evaluation :link:](./activities/activity-2/activity-2-overview.md)
