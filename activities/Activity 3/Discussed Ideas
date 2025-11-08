@@ -1,1 +1,5 @@
-
+For our Figma prototype, we focused on applying several important design concepts to make the interface more intuitive and
+visually organized. The section that we focused the most at the beginning was the resources page and every idea we had about
+how to apply the concepts of the class, were re-utilized on the other sections. We used Gestalt principles like proximity, similarity, and alignment to group related elements and help users easily identify sections and relationships between components
+like cards, filters, buttons, etc. To improve interaction, we added affordances by designing buttons and icons in ways that suggest their purpose for example, using shadows and shapes that make them look clickable, the icons in the search bar and filters. We also included signifiers, such as hover effects and labels, to give users clear visual cues about what actions are possible. Following the idea of low threshold, high ceiling, we made sure the
+interface is easy to use for beginners, but still allows more advanced users to explore extra features if they want, like advanced search. Overall, these concepts helped us design a prototype that feels simple, consistent, and functional, which will serve as a strong foundation for the final version of our WordPress project.
