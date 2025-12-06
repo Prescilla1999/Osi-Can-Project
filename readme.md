@@ -34,6 +34,3 @@ Website will be made using WordPress. Process will be incremental to simulate th
 ### Constraints :link:
 Limited time to discuss with clients. We have to use WordPress, for better or for worse. We have to work with an existing brand rather than making our own. 
 
-## Activities :link:
-1. [Activity 1: Observe, frame, & brainstorm (low-fidelity) :link:](./activities/activity-1/activity-1-overview.md)
-2. [Activity 2: Brainstorming (high-fidelity) & evaluation :link:](./activities/activity-2/activity-2-overview.md)
